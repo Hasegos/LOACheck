@@ -11,7 +11,7 @@
 ## LOA Check 소개
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/74171823-4db1-4a11-8fd2-6021ea36ea0c">
+<img src="https://github.com/user-attachments/assets/1b591a2f-b453-446f-961c-cba81ed31ecb">
 </p>
 
 <h3>로스트아크 유저를 위한 캐릭터 검색 서비스</h3>
@@ -72,7 +72,7 @@ H2 DataBase
 
 #### 전체적인 흐름
 
-![Image](https://github.com/user-attachments/assets/76dcbe31-5b8d-48c3-81d6-948ab336f581)
+![Image](https://github.com/user-attachments/assets/672fde30-6ea7-42ae-a99a-bc5359ec2a31)
 
 ## 주요 기능
 
@@ -153,9 +153,9 @@ public class jwtUtil {
 로그인, 회원 가입을 통해 메인 화면으로 이동할 수 있습니다.
 ```
 
-![Image](https://github.com/user-attachments/assets/a94ccb64-54d4-4ac2-906d-5932c4dd047a)
+![Image](https://github.com/user-attachments/assets/8717f064-2fd0-4977-9f11-a7a2b0c1f892)
 
-![Image](https://github.com/user-attachments/assets/fdeaf2b0-abde-4a84-8049-d72c57dda58b)
+![Image](https://github.com/user-attachments/assets/0511a823-082a-414f-bd97-276e2dec7c99)
 
 ### 2.API 등록
 
@@ -163,7 +163,7 @@ public class jwtUtil {
 공식 로스트아크 API키를 등록하고 이후 검색기능을 사용할 수 있습니다.
 ```
 
-![Image](https://github.com/user-attachments/assets/a1fe8c54-61bd-43a8-907b-cfd93363fd5c)
+![Image](https://github.com/user-attachments/assets/15195777-8159-4ebc-9d3c-8709c1737779)
 
 ### 3.캐릭터 정보 출력
 
@@ -171,4 +171,4 @@ public class jwtUtil {
 정상적인 닉네임과 올바른 API키를 통해 캐릭터 정보를 찾을 수 있습니다.
 ```
 
-![Image](https://github.com/user-attachments/assets/1b6f217f-ffcb-4b6d-baff-01687fc914fb)
+![Image](https://github.com/user-attachments/assets/c8cf0658-09b1-440c-a650-1fe966030e7b)
